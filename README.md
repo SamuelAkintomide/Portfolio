@@ -10,7 +10,7 @@ This repository showcases my proficiency and expertise through a collection of m
 - **[Personal Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#20-personal-projects)** – Independent projects reflecting my skills and interests beyond academia.
   - [Portfolio Site](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#21-portfolio-site)
   - [Clothing Store Website](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#22-clothing-store-website)
-- **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#30-other-university-projects)** – Additional coursework projects that highlight my versatility and problem-solving abilities.
+- **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#30-other-university-projects)** – Additional coursework projects that highlight my versatility and problem-solving.
   - [Java EE Web Application with Database Integration](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#31-java-ee-web-application-with-database-integration)
   - [Applied Robotics](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#32-applied-robotics)
   - [Line-Follower Robot](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#33-line-follower-robot)
