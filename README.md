@@ -1,5 +1,21 @@
 # Projects
-The aim of this repository is to highlight my proficiency and expertise by compiling some of my most notable projects. The following projects represent my own work and, in some cases, involve collaborative efforts. For detailed insights into individual contributions, please refer to the specific repository. These projects have allowed me to delve into various aspects of robotics, web development and data analytics.
+This repository showcases my proficiency and expertise through a collection of my most notable projects. These projects span various domains, including robotics, web development, and data analytics. Some projects are individual efforts, while others involved collaboration—specific contributions are detailed within each repository.
+
+#### The projects are categorized into three sections for easy reference:
+
+- **[Key University Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)** – Significant academic projects that demonstrate my technical capabilities.
+  - [Final Year Project (ARTEx)](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)
+  - [AI Disease Spreading Simulation]()
+  - [Java Banking Application]()
+- **[Personal Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)** – Independent projects reflecting my skills and interests beyond academia.
+  - [Portfolio Site]()
+  - [Clothing Store Website]()
+- **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)** – Additional coursework projects that highlight my versatility and problem-solving abilities.
+  - [Java EE Web Application with Database Integration]()
+  - [Applied Robotics]()
+  - [Line-Follower Robot]()
+  - [Databases]()
+
 ## 1.0 Key University Projects
 
 ### 1.1) All-Terrain Robotic Transportation and Exploration System (ARTEx)
