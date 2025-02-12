@@ -5,7 +5,7 @@ These projects have allowed me to delve into various aspects of robotics, web de
 
 ## 1) All-Terrain Robotic Transportation and Exploration System (ARTEx)
 
-- **Repository:** [GitHub Link](https://github.com/DennisRotondi/AMR22_FP8_Model_free_CBF)
+- **Repository:** [GitHub Link](https://github.com/SamuelAkintomide/ARTEx)
 - **Year:** 2024
 - **Programming Languages:** Embedded C, HTML, JavaScript, CSS
 - **Applications:** Fusion360, Arduino IDE, EasyEDA
