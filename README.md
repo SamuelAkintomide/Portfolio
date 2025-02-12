@@ -3,18 +3,21 @@ This repository showcases my proficiency and expertise through a collection of m
 
 #### The projects are categorized into three sections for easy reference:
 
-- **[Key University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#10-key-university-projects)** – Significant academic projects that demonstrate my technical capabilities.
-  - [Final Year Project (ARTEx)](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#11-all-terrain-robotic-transportation-and-exploration-system-artex)
-  - [AI Disease Spreading Simulation](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#12-artificial-intelligence-disease-propagation-simulation)
-  - [Java Banking Application](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#12-artificial-intelligence-disease-propagation-simulation)
-- **[Personal Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#20-personal-projects)** – Independent projects reflecting my skills and interests beyond academia.
-  - [Portfolio Site](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#21-portfolio-site)
-  - [Clothing Store Website](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#22-clothing-store-website)
-- **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#30-other-university-projects)** – Additional coursework projects that highlight my versatility and problem-solving.
-  - [Java EE Web Application with Database Integration](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#31-java-ee-web-application-with-database-integration)
-  - [Applied Robotics](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#32-applied-robotics)
-  - [Line-Follower Robot](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#33-line-follower-robot)
-  - [Databases](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#34-databases)
+#### 1.0) *[Key University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#10-key-university-projects)*  
+###### Significant academic projects that demonstrate my technical capabilities.
+###### 1.1) [Final Year Project (ARTEx)](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#11-all-terrain-robotic-transportation-and-exploration-system-artex)
+###### 1.2) [AI Disease Spreading Simulation](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#12-artificial-intelligence-disease-propagation-simulation)
+###### 1.3) [Java Banking Application](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#12-artificial-intelligence-disease-propagation-simulation) 
+#### 2.0) **[Personal Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#20-personal-projects)** 
+###### Independent projects reflecting my skills and interests beyond academia.
+###### 2.1) [Portfolio Site](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#21-portfolio-site)
+###### 2.2) [Clothing Store Website](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#22-clothing-store-website)
+#### 3.0) **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#30-other-university-projects)** 
+###### Additional coursework projects that highlight my versatility and problem-solving.
+###### 3.1) [Java EE Web Application with Database Integration](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#31-java-ee-web-application-with-database-integration)
+###### 3.2) [Applied Robotics](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#32-applied-robotics)
+###### 3.3) [Line-Follower Robot](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#33-line-follower-robot)
+###### 3.4) [Databases](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#34-databases)
 
 ## 1.0 Key University Projects
 
@@ -51,6 +54,7 @@ University project where the class was put into pairs and tasked with using AI t
 - ***Additional Resources:*** [Report](), [Code]()
   
 #### Description
+Developed a Java-based banking application that simulates essential banking operations, including account creation, deposits, withdrawals, balance inquiries, and transaction history tracking. The application follows object-oriented programming principles, implementing custom data structures and sorting/searching algorithms for optimised performance. It includes exception handling for secure transactions and a user-friendly interface for intuitive interactions. The system ensures data persistence through file handling or a database, maintaining user account details and transaction logs efficiently.
 
 ## 2.0 Personal Projects
 ### 2.1) Portfolio Site
