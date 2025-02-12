@@ -3,17 +3,17 @@ This repository showcases my proficiency and expertise through a collection of m
 
 #### The projects are categorized into three sections for easy reference:
 
-#### 1.0) *[Key University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#10-key-university-projects)*  
-###### Significant academic projects that demonstrate my technical capabilities.
+#### 1.0) **[Key University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#10-key-university-projects)**  
+###### *Significant academic projects that demonstrate my technical capabilities.*
 ###### 1.1) [Final Year Project (ARTEx)](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#11-all-terrain-robotic-transportation-and-exploration-system-artex)
 ###### 1.2) [AI Disease Spreading Simulation](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#12-artificial-intelligence-disease-propagation-simulation)
 ###### 1.3) [Java Banking Application](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#12-artificial-intelligence-disease-propagation-simulation) 
 #### 2.0) **[Personal Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#20-personal-projects)** 
-###### Independent projects reflecting my skills and interests beyond academia.
+###### *Independent projects reflecting my skills and interests beyond academia.*
 ###### 2.1) [Portfolio Site](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#21-portfolio-site)
 ###### 2.2) [Clothing Store Website](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#22-clothing-store-website)
 #### 3.0) **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#30-other-university-projects)** 
-###### Additional coursework projects that highlight my versatility and problem-solving.
+###### *Additional coursework projects that highlight my versatility and problem-solving.*
 ###### 3.1) [Java EE Web Application with Database Integration](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#31-java-ee-web-application-with-database-integration)
 ###### 3.2) [Applied Robotics](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#32-applied-robotics)
 ###### 3.3) [Line-Follower Robot](https://github.com/SamuelAkintomide/Portfolio/tree/main?tab=readme-ov-file#33-line-follower-robot)
