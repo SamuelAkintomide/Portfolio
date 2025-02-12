@@ -4,17 +4,17 @@ This repository showcases my proficiency and expertise through a collection of m
 #### The projects are categorized into three sections for easy reference:
 
 - **[Key University Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)** – Significant academic projects that demonstrate my technical capabilities.
-  - [Final Year Project (ARTEx)](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)
-  - [AI Disease Spreading Simulation]()
-  - [Java Banking Application]()
-- **[Personal Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)** – Independent projects reflecting my skills and interests beyond academia.
-  - [Portfolio Site]()
-  - [Clothing Store Website]()
-- **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#10-key-university-projects)** – Additional coursework projects that highlight my versatility and problem-solving abilities.
-  - [Java EE Web Application with Database Integration]()
-  - [Applied Robotics]()
-  - [Line-Follower Robot]()
-  - [Databases]()
+  - [Final Year Project (ARTEx)](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#11-all-terrain-robotic-transportation-and-exploration-system-artex)
+  - [AI Disease Spreading Simulation](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#12-artificial-intelligence-disease-propagation-simulation)
+  - [Java Banking Application](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#12-artificial-intelligence-disease-propagation-simulation)
+- **[Personal Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#20-personal-projects)** – Independent projects reflecting my skills and interests beyond academia.
+  - [Portfolio Site](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#21-portfolio-site)
+  - [Clothing Store Website](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#22-clothing-store-website)
+- **[Other University Projects](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#30-other-university-projects)** – Additional coursework projects that highlight my versatility and problem-solving abilities.
+  - [Java EE Web Application with Database Integration](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#31-java-ee-web-application-with-database-integration)
+  - [Applied Robotics](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#32-applied-robotics)
+  - [Line-Follower Robot](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#33-line-follower-robot)
+  - [Databases](https://github.com/SamuelAkintomide/Portfolio/edit/main/README.md#34-databases)
 
 ## 1.0 Key University Projects
 
