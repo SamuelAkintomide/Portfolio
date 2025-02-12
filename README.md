@@ -1,6 +1,6 @@
 # Projects
-The aim of this repository is to highlight my proficiency and expertise by compiling some of my most notable projects. \
-The following projects represent my own work and, in some cases, involve collaborative efforts. For detailed insights into individual contributions, please refer to the specific repository. \
+The aim of this repository is to highlight my proficiency and expertise by compiling some of my most notable projects.
+The following projects represent my own work and, in some cases, involve collaborative efforts. For detailed insights into individual contributions, please refer to the specific repository.
 These projects have allowed me to delve into various aspects of robotics, web developement and data anyltics. 
 
 ## 1) ARTEx - All-Terrain Robotic Transportation and Exploration System
