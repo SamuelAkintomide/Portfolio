@@ -47,7 +47,7 @@ University project where the class was put into pairs and tasked with using AI t
 
 ### 1.3) Java Banking Application
 
-- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/)
+- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/JavaEEBank/tree/main)
 - ***Year:*** 2024
 - ***Programming Languages:*** Java
 - ***Applications:*** NetBeans
@@ -69,7 +69,7 @@ Developed a Java-based banking application that simulates essential banking oper
 
 ### 2.2) Clothing Store Website
 
-- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/)
+- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/SamClothingStore/tree/main)
 - ***Year:*** 2024
 - ***Programming Languages:*** 
 - ***Applications:*** 
