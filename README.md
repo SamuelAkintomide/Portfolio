@@ -59,10 +59,10 @@ Developed a Java-based banking application that simulates essential banking oper
 ## 2.0 Personal Projects
 ### 2.1) Portfolio Site
 
-- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/)
+- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/SamuelAkintomide.github.io)
 - ***Year:*** 2024
-- ***Programming Languages:***
-- ***Applications:***
+- ***Programming Languages:*** React.js, JavaScript, HTML, CSS, SASS
+- ***Applications:*** Visual Studio Code
 - ***Additional Resources:*** [Report]()
   
 #### Description
@@ -71,8 +71,8 @@ Developed a Java-based banking application that simulates essential banking oper
 
 - ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/SamClothingStore/tree/main)
 - ***Year:*** 2024
-- ***Programming Languages:*** 
-- ***Applications:*** 
+- ***Programming Languages:*** React.js, JavaScript, HTML, CSS, SASS
+- ***Applications:*** Visual Studio Code
 - ***Additional Resources:*** [Report]()
 
 #### Description
