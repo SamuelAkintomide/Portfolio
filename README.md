@@ -70,7 +70,7 @@ Developed a Java-based banking application that simulates essential banking oper
 ### 2.2) Clothing Store Website
 
 - ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/SamClothingStore/tree/main)
-- ***Year:*** 2024
+- ***Year:*** 2023
 - ***Programming Languages:*** React.js, JavaScript, HTML, CSS, SASS
 - ***Applications:*** Visual Studio Code
 - ***Additional Resources:*** [Report]()
