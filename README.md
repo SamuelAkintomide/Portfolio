@@ -114,10 +114,10 @@ Developed a full-stack Java EE web application for chemical product browsing and
 
 ### 3.4) Databases
 
-- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/)
+- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/CourseDatabases)
 - ***Year:*** 2022
 - ***Programming Languages:*** SQL
 - ***Applications:*** LucidChart, SQLdeveloper
-- ***Additional Resources:*** [Report](), [Code]()
+- ***Additional Resources:*** [Report](https://github.com/SamuelAkintomide/CourseDatabases/blob/main/Mobile%20for%20You%20Case%20Study.pdf), [Code](https://github.com/SamuelAkintomide/CourseDatabases/tree/main/Code)
   
 #### Description
