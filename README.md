@@ -81,7 +81,7 @@ Developed a Java-based banking application that simulates essential banking oper
 
 ### 3.1) Java EE Web Application with Database Integration
 
-- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/JavaWebApp)
+- ***Repository:*** [GitHub Link](https://github.com/SamuelAkintomide/JavaEEWebChem/tree/main)
 - ***Year:*** 2024
 - ***Programming Languages:*** Java EE, JSF, SQL
 - ***Applications:*** Netbeans, MySQL, GlassFish Server
